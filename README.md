@@ -1,4 +1,4 @@
-# Neste repositório você encontrará todos as implementações para a playlist 03, sob Mobx do canal Vamos Fluttear.
+# Neste repositório você encontrará todos as implementações para a playlist 03, sobre Mobx, do canal Vamos Fluttear.
 
 Aproveitando que está aqui, se você quiser, pode ver meus livros publicados pela casa do código em https://www.casadocodigo.com.br/search?type=product&q=everton, ou seguir meus canais:
 
